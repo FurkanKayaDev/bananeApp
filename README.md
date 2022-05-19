@@ -24,7 +24,7 @@ React Native
 ## Başlangıç
 Bu depoyu yerel makinenizde klonlayın.
 ```
-git clone https://github.com/Lyndray/ProfitApp-withRedux.git
+git clone https://github.com/Lyndray/bananeApp.git
 ```
 
 Kullanım

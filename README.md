@@ -16,7 +16,7 @@ React Native
 * Asenkron işlemler
 * Türkçe zaman gösterme
 
-![](https://user-images.githubusercontent.com/103508575/169373455-9e4ed100-8cc4-4997-87df-c0a09026875a.jpg ){width=250px}
+![](https://user-images.githubusercontent.com/103508575/169373455-9e4ed100-8cc4-4997-87df-c0a09026875a.jpg ){width=50px}
 <img src="https://user-images.githubusercontent.com/103508575/169373455-9e4ed100-8cc4-4997-87df-c0a09026875a.jpg"/table.png"  width="120" height="120">
 ![](https://user-images.githubusercontent.com/103508575/169373462-f29ebfa8-651f-4855-8968-7dfc671a6152.jpg | height='400')
 ![](https://user-images.githubusercontent.com/103508575/169373476-01cada82-cd18-4257-aede-419d82d97dba.jpg | height='400')

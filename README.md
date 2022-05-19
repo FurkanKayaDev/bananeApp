@@ -21,7 +21,7 @@ React Native
 
 <img src="https://user-images.githubusercontent.com/103508575/169373476-01cada82-cd18-4257-aede-419d82d97dba.jpg" alt="InfiniteGraph Logo" width="320">
 
-<img src="(https://user-images.githubusercontent.com/103508575/169373474-7204eff8-70fb-479b-a478-b85c25f1a191.jpg" alt="InfiniteGraph Logo" width="320">
+<img src="https://user-images.githubusercontent.com/103508575/169373474-7204eff8-70fb-479b-a478-b85c25f1a191.jpg" alt="InfiniteGraph Logo" width="320">
 
 ## Başlangıç
 Bu depoyu yerel makinenizde klonlayın.
